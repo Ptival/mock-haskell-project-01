@@ -7,6 +7,8 @@ library:
     - ExposedModule
   other-modules:
     - OtherModule
+  dependencies:
+    - time
 
 name: project
 
